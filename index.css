@@ -191,7 +191,7 @@
     font-size: 1.875rem;
   }
 } .u-section-2 {
-  background-image: url("images/g-min-8.jpg");
+  background-image: url("images/g-min-4.jpg");
   background-position: 50% 50%;
 }
 
@@ -558,6 +558,7 @@
   --animation-custom_in-translate_x: 100px;
   --animation-custom_in-translate_y: 0px;
   background-image: url("images/pngegg.png");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-container-layout-2 {
@@ -579,7 +580,6 @@
 
   .u-section-3 .u-image-1 {
     min-height: 364px;
-    background-position: 50% 50%;
   }
 }
 
@@ -1483,7 +1483,7 @@
     grid-template-columns: 100%;
   }
 } .u-section-8 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('images/-min-13.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('images/-min-7.jpg');
   background-position: 50% 50%;
 }
 
