@@ -1,0 +1,1 @@
+RewriteRule (.*?)Galleria.html/*(.*) /$1$2 [R=301,NE,L]
